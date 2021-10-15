@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.js": "https://paulolope.github.io/csb-7f7er/static/js/main.6205383d.chunk.js",
+    "main.js.map": "https://paulolope.github.io/csb-7f7er/static/js/main.6205383d.chunk.js.map",
+    "runtime~main.js": "https://paulolope.github.io/csb-7f7er/static/js/runtime~main.bccb2b80.js",
+    "runtime~main.js.map": "https://paulolope.github.io/csb-7f7er/static/js/runtime~main.bccb2b80.js.map",
+    "static/js/2.e1bded2c.chunk.js": "https://paulolope.github.io/csb-7f7er/static/js/2.e1bded2c.chunk.js",
+    "static/js/2.e1bded2c.chunk.js.map": "https://paulolope.github.io/csb-7f7er/static/js/2.e1bded2c.chunk.js.map",
+    "index.html": "https://paulolope.github.io/csb-7f7er/index.html",
+    "precache-manifest.eae4f5624fd232fa5886a08e095e993f.js": "https://paulolope.github.io/csb-7f7er/precache-manifest.eae4f5624fd232fa5886a08e095e993f.js",
+    "service-worker.js": "https://paulolope.github.io/csb-7f7er/service-worker.js"
+  }
+}
